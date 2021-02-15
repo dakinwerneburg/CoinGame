@@ -1,6 +1,6 @@
 # CoinGame
 
-This was my first Java game with graphics.  It used the Java AWT and Swing Libraries and introduced me to event handling, and concurrency and Runnables.
+This was my first Java game with graphics.  It used the Java AWT and Swing libraries and introduced me to event handling, and concurrency.
 
 ![coinflipgame](coinTossDemo.gif)
 
